@@ -1,7 +1,3 @@
-![Screenshot 2025-06-18 195615](https://github.com/user-attachments/assets/d726ded2-3346-412b-a285-92c3c25b66fb)
-![Screenshot 2025-06-18 195554](https://github.com/user-attachments/assets/788e4cc4-422b-4bd0-9df8-8ab10603eb84)
-![Screenshot 2025-06-18 195539](https://github.com/user-attachments/assets/ab799926-4573-46fa-b7a4-62413f362cc0)
-![Screenshot 2025-06-18 195523](https://github.com/user-attachments/assets/a511abfb-d2d1-4fc9-88d0-10a5f42b49a7)
 
 # Password-Generator
 The Password Generator is a simple yet powerful web-based tool that helps users create secure, random passwords with customizable settings. Built using HTML, CSS, and JavaScript, this project is ideal for anyone looking to improve their password security by generating strong, unpredictable passwords in seconds.In today’s digital age, password security is more important than ever. Weak or reused passwords are a major vulnerability, often targeted by cyber attackers. This tool eliminates the guesswork by letting users generate complex passwords tailored to specific security needs.
@@ -25,8 +21,8 @@ When the user selects the desired criteria (length, character types), JavaScript
 
 Use Cases:-
 * Creating strong passwords for online accounts
-* Generating temporary or one-time-use credentials![Screenshot 2025-06-18 195707](https://github.com/user-attachments/assets/25c3ee5a-7f44-4046-a202-f26e06d3c9de)
-![Screenshot 2025-06-18 195631](https://github.com/user-attachments/assets/05e173e2-fba1-4ba4-8703-8ebdc755e560)
+* Generating temporary or one-time-use credentials
+
 
 * Demonstrating password security in educational settings
 * Enhancing personal cybersecurity practices
@@ -35,3 +31,11 @@ Project Files:-
 * index.html – Main layout and structure
 * style.css – Visual styling and layout adjustments
 * script.js – Functional logic for password generation
+
+![Screenshot 2025-06-18 195615](https://github.com/user-attachments/assets/d726ded2-3346-412b-a285-92c3c25b66fb)
+![Screenshot 2025-06-18 195554](https://github.com/user-attachments/assets/788e4cc4-422b-4bd0-9df8-8ab10603eb84)
+![Screenshot 2025-06-18 195539](https://github.com/user-attachments/assets/ab799926-4573-46fa-b7a4-62413f362cc0)
+![Screenshot 2025-06-18 195523](https://github.com/user-attachments/assets/a511abfb-d2d1-4fc9-88d0-10a5f42b49a7)
+![Screenshot 2025-06-18 195707](https://github.com/user-attachments/assets/25c3ee5a-7f44-4046-a202-f26e06d3c9de)
+![Screenshot 2025-06-18 195631](https://github.com/user-attachments/assets/05e173e2-fba1-4ba4-8703-8ebdc755e560)
+
